@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Cloud Engineer, IaC, Terraform and Architecture
+- 🌱 Cloud Engineer, IaC, Terraform, Networking and Architecture
 
 <!--
 **rvcondon/rvcondon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
